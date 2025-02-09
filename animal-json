@@ -6,7 +6,7 @@
     "age": 7,
     "isActive": true,
     "birthDate": "2017-05-14",
-    "imageUrl": "https://example.com/images/leo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/leeuw.jpg",
     "species": "leeuw",
     "hobbies": ["jagen", "luieren", "brullen"],
     "habitat": {
@@ -14,7 +14,7 @@
       "location": "Afrikaanse savanne",
       "climate": "warm",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/savanne.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Afrikaanse%20savanne.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
     "age": 5,
     "isActive": true,
     "birthDate": "2019-02-10",
-    "imageUrl": "https://example.com/images/milo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/dolfijn.jpg",
     "species": "dolfijn",
     "hobbies": ["springen", "spelen met bal", "duiken"],
     "habitat": {
@@ -32,7 +32,7 @@
       "location": "Tropische oceaan",
       "climate": "gematigd",
       "isProtected": false,
-      "imageUrl": "https://example.com/images/ocean.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20oceaan.jpg"
     }
   },
   {
@@ -42,7 +42,7 @@
     "age": 6,
     "isActive": false,
     "birthDate": "2018-08-25",
-    "imageUrl": "https://example.com/images/bella.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/panda.jpg",
     "species": "panda",
     "hobbies": ["eten", "slapen", "klimmen"],
     "habitat": {
@@ -50,7 +50,7 @@
       "location": "Chinese bamboebossen",
       "climate": "gematigd",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/bamboo.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Chinese%20bamboebossen.jpg"
     }
   },
   {
@@ -60,7 +60,7 @@
     "age": 4,
     "isActive": true,
     "birthDate": "2020-03-12",
-    "imageUrl": "https://example.com/images/rocky.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/adelaar.jpg",
     "species": "adelaar",
     "hobbies": ["vliegen", "jagen", "uitkijken over de bergen"],
     "habitat": {
@@ -68,7 +68,7 @@
       "location": "Berggebieden",
       "climate": "koud",
       "isProtected": false,
-      "imageUrl": "https://example.com/images/mountains.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/berggebieden.jpg"
     }
   },
   {
@@ -78,7 +78,7 @@
     "age": 8,
     "isActive": true,
     "birthDate": "2016-11-30",
-    "imageUrl": "https://example.com/images/zara.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/zebra.jpg",
     "species": "zebra",
     "hobbies": ["rennen", "grazen", "socialiseren"],
     "habitat": {
@@ -86,7 +86,7 @@
       "location": "Afrikaanse savanne",
       "climate": "warm",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/savanne.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/afrikaanse%20savanne_zebra.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
     "age": 80,
     "isActive": false,
     "birthDate": "1944-07-19",
-    "imageUrl": "https://example.com/images/toby.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/schildpad.jpg",
     "species": "schildpad",
     "hobbies": ["zwemmen", "slapen", "eten"],
     "habitat": {
@@ -104,7 +104,7 @@
       "location": "Tropische eilanden",
       "climate": "warm",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/island.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20eiland.jpg"
     }
   },
   {
@@ -114,7 +114,7 @@
     "age": 3,
     "isActive": true,
     "birthDate": "2021-01-22",
-    "imageUrl": "https://example.com/images/luna.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/vos.jpg",
     "species": "vos",
     "hobbies": ["graven", "spelen", "jagen"],
     "habitat": {
@@ -122,7 +122,7 @@
       "location": "Boreale bossen",
       "climate": "koud",
       "isProtected": false,
-      "imageUrl": "https://example.com/images/forest.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Boreale%20bossen.jpg"
     }
   },
   {
@@ -132,7 +132,7 @@
     "age": 9,
     "isActive": true,
     "birthDate": "2015-06-05",
-    "imageUrl": "https://example.com/images/charlie.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/chimpansee%20.jpg",
     "species": "chimpansee",
     "hobbies": ["klimmen", "spelen", "voedsel zoeken"],
     "habitat": {
@@ -140,7 +140,7 @@
       "location": "Tropische regenwouden",
       "climate": "warm en vochtig",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/jungle.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20regenwouden.jpg"
     }
   },
   {
@@ -150,7 +150,7 @@
     "age": 12,
     "isActive": false,
     "birthDate": "2012-09-14",
-    "imageUrl": "https://example.com/images/oscar.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/ijsbeer.jpg",
     "species": "ijsbeer",
     "hobbies": ["zwemmen", "slapen", "jagen"],
     "habitat": {
@@ -158,7 +158,7 @@
       "location": "Noordpool",
       "climate": "ijskoud",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/arctic.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Noordpool.jpg"
     }
   },
   {
@@ -168,7 +168,7 @@
     "age": 2,
     "isActive": true,
     "birthDate": "2022-04-18",
-    "imageUrl": "https://example.com/images/daisy.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/papegaai.jpg",
     "species": "papegaai",
     "hobbies": ["praten", "vliegen", "zaden eten"],
     "habitat": {
@@ -176,7 +176,7 @@
       "location": "Tropische regenwouden",
       "climate": "warm en vochtig",
       "isProtected": true,
-      "imageUrl": "https://example.com/images/jungle.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/tropische%20regenwoud%20bomen.jpg"
     }
   }
 ]
