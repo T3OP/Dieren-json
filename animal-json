@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Leo",
+    "description": "Een majestueuze leeuw met een indrukwekkende manen.",
+    "age": 7,
+    "isActive": true,
+    "birthDate": "2017-05-14",
+    "imageUrl": "https://example.com/images/leo.jpg",
+    "species": "leeuw",
+    "hobbies": ["jagen", "luieren", "brullen"],
+    "habitat": {
+      "id": 101,
+      "location": "Afrikaanse savanne",
+      "climate": "warm",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/savanne.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Milo",
+    "description": "Een speelse dolfijn die graag door hoepels springt.",
+    "age": 5,
+    "isActive": true,
+    "birthDate": "2019-02-10",
+    "imageUrl": "https://example.com/images/milo.jpg",
+    "species": "dolfijn",
+    "hobbies": ["springen", "spelen met bal", "duiken"],
+    "habitat": {
+      "id": 102,
+      "location": "Tropische oceaan",
+      "climate": "gematigd",
+      "isProtected": false,
+      "imageUrl": "https://example.com/images/ocean.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bella",
+    "description": "Een rustige panda die het liefst bamboe eet.",
+    "age": 6,
+    "isActive": false,
+    "birthDate": "2018-08-25",
+    "imageUrl": "https://example.com/images/bella.jpg",
+    "species": "panda",
+    "hobbies": ["eten", "slapen", "klimmen"],
+    "habitat": {
+      "id": 103,
+      "location": "Chinese bamboebossen",
+      "climate": "gematigd",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/bamboo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Rocky",
+    "description": "Een stoere adelaar met scherpe ogen.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2020-03-12",
+    "imageUrl": "https://example.com/images/rocky.jpg",
+    "species": "adelaar",
+    "hobbies": ["vliegen", "jagen", "uitkijken over de bergen"],
+    "habitat": {
+      "id": 104,
+      "location": "Berggebieden",
+      "climate": "koud",
+      "isProtected": false,
+      "imageUrl": "https://example.com/images/mountains.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Zara",
+    "description": "Een elegante zebra met unieke strepen.",
+    "age": 8,
+    "isActive": true,
+    "birthDate": "2016-11-30",
+    "imageUrl": "https://example.com/images/zara.jpg",
+    "species": "zebra",
+    "hobbies": ["rennen", "grazen", "socialiseren"],
+    "habitat": {
+      "id": 101,
+      "location": "Afrikaanse savanne",
+      "climate": "warm",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/savanne.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Toby",
+    "description": "Een nieuwsgierige schildpad die langzaam maar gestaag beweegt.",
+    "age": 80,
+    "isActive": false,
+    "birthDate": "1944-07-19",
+    "imageUrl": "https://example.com/images/toby.jpg",
+    "species": "schildpad",
+    "hobbies": ["zwemmen", "slapen", "eten"],
+    "habitat": {
+      "id": 105,
+      "location": "Tropische eilanden",
+      "climate": "warm",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/island.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Luna",
+    "description": "Een speelse vos met een prachtige rode vacht.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2021-01-22",
+    "imageUrl": "https://example.com/images/luna.jpg",
+    "species": "vos",
+    "hobbies": ["graven", "spelen", "jagen"],
+    "habitat": {
+      "id": 106,
+      "location": "Boreale bossen",
+      "climate": "koud",
+      "isProtected": false,
+      "imageUrl": "https://example.com/images/forest.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Charlie",
+    "description": "Een grappige chimpansee die graag met takken speelt.",
+    "age": 9,
+    "isActive": true,
+    "birthDate": "2015-06-05",
+    "imageUrl": "https://example.com/images/charlie.jpg",
+    "species": "chimpansee",
+    "hobbies": ["klimmen", "spelen", "voedsel zoeken"],
+    "habitat": {
+      "id": 107,
+      "location": "Tropische regenwouden",
+      "climate": "warm en vochtig",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/jungle.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Oscar",
+    "description": "Een relaxte ijsbeer die houdt van zwemmen.",
+    "age": 12,
+    "isActive": false,
+    "birthDate": "2012-09-14",
+    "imageUrl": "https://example.com/images/oscar.jpg",
+    "species": "ijsbeer",
+    "hobbies": ["zwemmen", "slapen", "jagen"],
+    "habitat": {
+      "id": 108,
+      "location": "Noordpool",
+      "climate": "ijskoud",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/arctic.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Daisy",
+    "description": "Een kleurrijke papegaai die graag praat.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2022-04-18",
+    "imageUrl": "https://example.com/images/daisy.jpg",
+    "species": "papegaai",
+    "hobbies": ["praten", "vliegen", "zaden eten"],
+    "habitat": {
+      "id": 107,
+      "location": "Tropische regenwouden",
+      "climate": "warm en vochtig",
+      "isProtected": true,
+      "imageUrl": "https://example.com/images/jungle.jpg"
+    }
+  }
+]
