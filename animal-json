@@ -9,7 +9,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/leeuw.jpg",
     "species": "leeuw",
     "hobbies": ["jagen", "luieren", "brullen"],
-    "habitatId": 101
+    "habitat": 101
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/dolfijn.jpg",
     "species": "dolfijn",
     "hobbies": ["springen", "spelen met bal", "duiken"],
-    "habitatId": 102
+    "habitat": 102
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/panda.jpg",
     "species": "panda",
     "hobbies": ["eten", "slapen", "klimmen"],
-    "habitatId": 103
+    "habitat": 103
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/adelaar.jpg",
     "species": "adelaar",
     "hobbies": ["vliegen", "jagen", "uitkijken over de bergen"],
-    "habitatId": 104
+    "habitat": 104
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/zebra.jpg",
     "species": "zebra",
     "hobbies": ["rennen", "grazen", "socialiseren"],
-    "habitatId": 101
+    "habitat": 101
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/schildpad.jpg",
     "species": "schildpad",
     "hobbies": ["zwemmen", "slapen", "eten"],
-    "habitatId": 105
+    "habitat": 105
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/vos.jpg",
     "species": "vos",
     "hobbies": ["graven", "spelen", "jagen"],
-    "habitatId": 106
+    "habitat": 106
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/chimpansee%20.jpg",
     "species": "chimpansee",
     "hobbies": ["klimmen", "spelen", "voedsel zoeken"],
-    "habitatId": 107
+    "habitat": 107
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/ijsbeer.jpg",
     "species": "ijsbeer",
     "hobbies": ["zwemmen", "slapen", "jagen"],
-    "habitatId": 108
+    "habitat": 108
   },
   {
     "id": 10,
@@ -117,6 +117,6 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/papegaai.jpg",
     "species": "papegaai",
     "hobbies": ["praten", "vliegen", "zaden eten"],
-    "habitatId": 107
+    "habitat": 107
   }
 ]
