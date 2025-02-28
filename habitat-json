@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "location": "Afrikaanse savanne",
+    "climate": "warm",
+    "isProtected": true,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Afrikaanse%20savanne.jpg"
+  },
+  {
+    "id": 102,
+    "location": "Tropische oceaan",
+    "climate": "gematigd",
+    "isProtected": false,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20oceaan.jpg"
+  },
+  {
+    "id": 103,
+    "location": "Chinese bamboebossen",
+    "climate": "gematigd",
+    "isProtected": true,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Chinese%20bamboebossen.jpg"
+  },
+  {
+    "id": 104,
+    "location": "Berggebieden",
+    "climate": "koud",
+    "isProtected": false,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/berggebieden.jpg"
+  },
+  {
+    "id": 105,
+    "location": "Tropische eilanden",
+    "climate": "warm",
+    "isProtected": true,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20eiland.jpg"
+  },
+  {
+    "id": 106,
+    "location": "Boreale bossen",
+    "climate": "koud",
+    "isProtected": false,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Boreale%20bossen.jpg"
+  },
+  {
+    "id": 107,
+    "location": "Tropische regenwouden",
+    "climate": "warm en vochtig",
+    "isProtected": true,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20regenwouden.jpg"
+  },
+  {
+    "id": 108,
+    "location": "Noordpool",
+    "climate": "ijskoud",
+    "isProtected": true,
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Noordpool.jpg"
+  }
+]
