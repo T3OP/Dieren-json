@@ -9,13 +9,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/leeuw.jpg",
     "species": "leeuw",
     "hobbies": ["jagen", "luieren", "brullen"],
-    "habitat": {
-      "id": 101,
-      "location": "Afrikaanse savanne",
-      "climate": "warm",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Afrikaanse%20savanne.jpg"
-    }
+    "habitatId": 101
   },
   {
     "id": 2,
@@ -27,13 +21,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/dolfijn.jpg",
     "species": "dolfijn",
     "hobbies": ["springen", "spelen met bal", "duiken"],
-    "habitat": {
-      "id": 102,
-      "location": "Tropische oceaan",
-      "climate": "gematigd",
-      "isProtected": false,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20oceaan.jpg"
-    }
+    "habitatId": 102
   },
   {
     "id": 3,
@@ -45,13 +33,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/panda.jpg",
     "species": "panda",
     "hobbies": ["eten", "slapen", "klimmen"],
-    "habitat": {
-      "id": 103,
-      "location": "Chinese bamboebossen",
-      "climate": "gematigd",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Chinese%20bamboebossen.jpg"
-    }
+    "habitatId": 103
   },
   {
     "id": 4,
@@ -63,13 +45,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/adelaar.jpg",
     "species": "adelaar",
     "hobbies": ["vliegen", "jagen", "uitkijken over de bergen"],
-    "habitat": {
-      "id": 104,
-      "location": "Berggebieden",
-      "climate": "koud",
-      "isProtected": false,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/berggebieden.jpg"
-    }
+    "habitatId": 104
   },
   {
     "id": 5,
@@ -81,13 +57,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/zebra.jpg",
     "species": "zebra",
     "hobbies": ["rennen", "grazen", "socialiseren"],
-    "habitat": {
-      "id": 101,
-      "location": "Afrikaanse savanne",
-      "climate": "warm",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/afrikaanse%20savanne_zebra.jpg"
-    }
+    "habitatId": 101
   },
   {
     "id": 6,
@@ -99,13 +69,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/schildpad.jpg",
     "species": "schildpad",
     "hobbies": ["zwemmen", "slapen", "eten"],
-    "habitat": {
-      "id": 105,
-      "location": "Tropische eilanden",
-      "climate": "warm",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20eiland.jpg"
-    }
+    "habitatId": 105
   },
   {
     "id": 7,
@@ -117,13 +81,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/vos.jpg",
     "species": "vos",
     "hobbies": ["graven", "spelen", "jagen"],
-    "habitat": {
-      "id": 106,
-      "location": "Boreale bossen",
-      "climate": "koud",
-      "isProtected": false,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Boreale%20bossen.jpg"
-    }
+    "habitatId": 106
   },
   {
     "id": 8,
@@ -135,13 +93,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/chimpansee%20.jpg",
     "species": "chimpansee",
     "hobbies": ["klimmen", "spelen", "voedsel zoeken"],
-    "habitat": {
-      "id": 107,
-      "location": "Tropische regenwouden",
-      "climate": "warm en vochtig",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Tropische%20regenwouden.jpg"
-    }
+    "habitatId": 107
   },
   {
     "id": 9,
@@ -153,13 +105,7 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/ijsbeer.jpg",
     "species": "ijsbeer",
     "hobbies": ["zwemmen", "slapen", "jagen"],
-    "habitat": {
-      "id": 108,
-      "location": "Noordpool",
-      "climate": "ijskoud",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/Noordpool.jpg"
-    }
+    "habitatId": 108
   },
   {
     "id": 10,
@@ -171,12 +117,6 @@
     "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/papegaai.jpg",
     "species": "papegaai",
     "hobbies": ["praten", "vliegen", "zaden eten"],
-    "habitat": {
-      "id": 107,
-      "location": "Tropische regenwouden",
-      "climate": "warm en vochtig",
-      "isProtected": true,
-      "imageUrl": "https://raw.githubusercontent.com/T3OP/Dieren-json/refs/heads/main/fotos/tropische%20regenwoud%20bomen.jpg"
-    }
+    "habitatId": 107
   }
 ]
